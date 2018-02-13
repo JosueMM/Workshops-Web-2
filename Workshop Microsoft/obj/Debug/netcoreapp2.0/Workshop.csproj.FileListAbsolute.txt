@@ -1,0 +1,11 @@
+C:\Users\Usuario\Workshop\bin\Debug\netcoreapp2.0\Workshop.deps.json
+C:\Users\Usuario\Workshop\bin\Debug\netcoreapp2.0\Workshop.runtimeconfig.json
+C:\Users\Usuario\Workshop\bin\Debug\netcoreapp2.0\Workshop.runtimeconfig.dev.json
+C:\Users\Usuario\Workshop\bin\Debug\netcoreapp2.0\Workshop.dll
+C:\Users\Usuario\Workshop\bin\Debug\netcoreapp2.0\Workshop.pdb
+C:\Users\Usuario\Workshop\obj\Debug\netcoreapp2.0\Workshop.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Workshop\obj\Debug\netcoreapp2.0\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Workshop\obj\Debug\netcoreapp2.0\Workshop.AssemblyInfoInputs.cache
+C:\Users\Usuario\Workshop\obj\Debug\netcoreapp2.0\Workshop.AssemblyInfo.cs
+C:\Users\Usuario\Workshop\obj\Debug\netcoreapp2.0\Workshop.dll
+C:\Users\Usuario\Workshop\obj\Debug\netcoreapp2.0\Workshop.pdb
